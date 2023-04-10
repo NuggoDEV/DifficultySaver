@@ -1,0 +1,7 @@
+﻿<horizontal>
+	<vertical>
+		<toggle-setting text="Enable Difficulty Saver" apply-on-change="true" value="ModToggle"/>
+
+		<dropdown-list-setting text="Difficulty" apply-on-change="true" value="DifficultySelected" options="DifficultyOptions"/>
+	</vertical>
+</horizontal>
